@@ -85,7 +85,7 @@ ________________________________________
 
 ________________________________________
 📄 Final Report
-👉 https://docs.google.com/document/d/1oscTwYfl-kLFqo2fWJrTX_uCaIrxEL1X/edit?usp=drive_link&ouid=106305386879319946616&rtpof=true&sd=true
+👉 https://docs.google.com/document/d/1oscTwYfl-kLFqo2fWJrTX_uCaIrxEL1X/edit?usp=sharing&ouid=106305386879319946616&rtpof=true&sd=true
 ________________________________________
 🚀 Future Improvements
 •	Hyperparameter tuning for models
